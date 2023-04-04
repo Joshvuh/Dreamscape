@@ -1,5 +1,5 @@
 # Dreamscape
-![firefox_Dm0JT0roD0(https://user-images.githubusercontent.com/114708968/229685404-d580348f-9b91-4943-a006-2576683edf9a.png)](http://dreamscape-vision-board.herokuapp.com/)
+[![Image](https://user-images.githubusercontent.com/114708968/229685404-d580348f-9b91-4943-a006-2576683edf9a.png)](http://dreamscape-vision-board.herokuapp.com/)
 
 
 ## Table of Contents
